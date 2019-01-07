@@ -1,0 +1,14 @@
+# Diversity-Scholarships
+Comprehensive list of diversity scholarships, including some offers of travel stipend and student discounts.
+
+**Contribute** by sending a [pull request](https://github.com/ShannonCanTech/Diversity-Scholarships/pulls), opening an [Issue](https://github.com/ShannonCanTech/Diversity-Scholarships/issues) or emailing [shannon.events16@gmail.com](mailto:shannon.events16@gmail.com). Remember that sharing is caring (my handle is [@SheCanTech](twitter.com/SheCanTech)). Send a connection request on [Linkedin](linkedin.com/in/shecantech) too!
+
+## Event, Travel Stipends, Tuition Scholarships, & Other Opportunities
+| Event | Date | Location | Apply | Offerings | Deadline |
+| --- | --- | --- | --- | --- | --- |
+| [ETHDenver  - #BUIDL Week Colorado & #BUIDLATHON](https://www.ethdenver.com/) | #BUIDL Week is February 11th-14th, The #BUIDLATHON is February 14th-17th | Denver, Colorado | https://ethdenver.taigamarket.io/apply | Travel Stipend (Eliigible upon acceptance); free child care offered | Deadline: January 31st | 
+| [CryptoChicks Hackathon + Conference in Toronto](https://www.toronto.cryptochicks.ca/) | May 31st - June 2nd | Toronto, Canada | https://www.toronto.cryptochicks.ca/hacker-application/ | [Call for speakers](https://www.toronto.cryptochicks.ca/speaker-opportunities/) | Deadliine: May 15, 2019 |
+| [Women in Tech: The Future of AI](https://www.eventbrite.com/e/women-in-tech-the-future-of-ai-tickets-48222303207?aff=ebdssbdestsearch) | March 8, 2019 | San Francisco, California | [Purchase via Eventbrite for $25 student ticket](https://www.eventbrite.com/e/women-in-tech-the-future-of-ai-tickets-48222303207?aff=ebdssbdestsearch) | | No deadline. Buy ticket before the event becomes sold out. |
+| [Frontend NE 2019](https://2019.frontendne.co.uk/) | April 3, 2019 | Newcastle, United Kingdom | [Diversity Scholarship](https://2019.frontendne.co.uk/diversity-scholarship.html) | | Deadline: February 28, 2019 |
+| [DevConf.CZ](https://devconf.info/cz/) | January 25-27, 2019 | Brno, Czechia | **Must live in either Europe, Middle East, or Africa to apply** Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf1S_yffxdiD5BULJvTd-5FRP_Mu2Lw7196MYNy-spAvbMoSA/viewform). | | Deadline: January 11, 2019 |
+| [Microsoft Tuition Scholarship Application](https://careers.microsoft.com/us/en/usscholarshipprogram?utm_source=Diversify+Tech&utm_campaign=6581ca1127-Diversify+Tech+Weekly+%233_COPY_01&utm_medium=email&utm_term=0_00b3f69566-6581ca1127-1256145717&fbclid=IwAR2WNHn5Y9nTsatkaWy7Ef3zaBxCIuYZi2DCAgp0wo2qnXtsDldHyKFgEhY) | Apply between November 18th to January 31st, 2019 | Be enrolled full time in a bachelor’s degree program at a four-year college or university in the United States, Canada or Mexico at the time you submit the application. | Apply online [here](https://microsoft.recsolu.com/external/requisitions/28_5r8UnqXBHK1Cf_pNfcw). | | Deadline: January 31, 2019 |
